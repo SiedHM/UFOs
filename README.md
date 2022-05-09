@@ -10,6 +10,8 @@ The data file for this project is "data.js " which is about UFOs sightings.
 
 # Results
 ## website deployed through GitHub
+The webfile develped can be acceded vias  https://siedhm.github.io/UFOs/
+
 
 
 
